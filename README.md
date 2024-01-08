@@ -2,7 +2,7 @@
 
 ![SleepWalker][github-sub-title:img]
 
-![SleepWalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleepwal&show_icons=true&theme=radical)
+![SleepWalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleepwal&show_icons=true&theme=gruvbox)
 
 </div>
 
